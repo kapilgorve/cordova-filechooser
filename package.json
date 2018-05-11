@@ -1,0 +1,19 @@
+{
+  "name": "cordova-filechooser",
+  "version": "1.0.0",
+  "description": "Fork of cordova-filechooser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapilgorve/cordova-filechooser.git"
+  },
+  "author": "Kapil Gorve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapilgorve/cordova-filechooser/issues"
+  },
+  "homepage": "https://github.com/kapilgorve/cordova-filechooser#readme"
+}
